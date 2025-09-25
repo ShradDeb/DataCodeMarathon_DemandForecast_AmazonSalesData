@@ -121,7 +121,3 @@ Then use ARIMA, Prophet, or advanced ML (XGBoost, LSTM) to forecast future daily
 Data Analyst | Data Scientist  
 Passionate about data-driven decision making and business analytics.
 
----
-
-## 📝 License
-MIT License
